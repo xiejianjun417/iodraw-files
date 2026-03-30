@@ -28,7 +28,7 @@
         <mxCell id="AsKK9qeq4kxyz__sirhb-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="43" width="210" height="217" as="geometry" />
         </mxCell>
-        <mxCell id="AsKK9qeq4kxyz__sirhb-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="AsKK9qeq4kxyz__sirhb-13" target="AsKK9qeq4kxyz__sirhb-15" parent="1">
+        <mxCell id="AsKK9qeq4kxyz__sirhb-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="AsKK9qeq4kxyz__sirhb-13" target="AsKK9qeq4kxyz__sirhb-15" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
           <mxGeometry x="540" y="92.75" width="50" height="27" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-18" value="会话" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="92.75" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

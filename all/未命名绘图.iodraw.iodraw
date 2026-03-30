@@ -73,10 +73,16 @@
         <mxCell id="AsKK9qeq4kxyz__sirhb-26" value="会话" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="426.37" y="184.25" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AsKK9qeq4kxyz__sirhb-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AsKK9qeq4kxyz__sirhb-9">
+        <mxCell id="AsKK9qeq4kxyz__sirhb-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AsKK9qeq4kxyz__sirhb-9" target="AsKK9qeq4kxyz__sirhb-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="360" as="sourcePoint" />
             <mxPoint x="390" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AsKK9qeq4kxyz__sirhb-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AsKK9qeq4kxyz__sirhb-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="163" as="sourcePoint" />
+            <mxPoint x="437" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

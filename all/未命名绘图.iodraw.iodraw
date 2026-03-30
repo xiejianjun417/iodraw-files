@@ -53,25 +53,25 @@
           <mxGeometry x="427" y="92.75" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-20" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="430" y="89" width="175.25" height="84" as="geometry" />
+          <mxGeometry x="419.37" y="170.5" width="175.25" height="84" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-21" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="AsKK9qeq4kxyz__sirhb-22" target="AsKK9qeq4kxyz__sirhb-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="437" y="92.5" width="160" height="47.5" as="geometry" />
+          <mxGeometry x="426.37" y="174" width="160" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-23" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="484.5" y="150.5" width="65" height="20" as="geometry" />
+          <mxGeometry x="473.87" y="232" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-24" value="jhuser1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="102.75" width="50" height="27" as="geometry" />
+          <mxGeometry x="469.37" y="184.25" width="50" height="27" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-25" value="Desktop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="537" y="102.75" width="50" height="27" as="geometry" />
+          <mxGeometry x="526.37" y="184.25" width="50" height="27" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-26" value="会话" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="437" y="102.75" width="30" height="30" as="geometry" />
+          <mxGeometry x="426.37" y="184.25" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

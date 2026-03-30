@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AsKK9qeq4kxyz__sirhb-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="419.5" y="75.5" width="170.5" height="94.5" as="geometry" />
-        </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="43" width="130" height="220" as="geometry" />
         </mxCell>
@@ -45,6 +42,9 @@
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-16" value="jhuser1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="92.75" width="50" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="AsKK9qeq4kxyz__sirhb-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="419.5" y="75.5" width="180.5" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-17" value="Desktop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="527" y="92.75" width="50" height="27" as="geometry" />

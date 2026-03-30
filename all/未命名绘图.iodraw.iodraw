@@ -40,7 +40,7 @@
         <mxCell id="AsKK9qeq4kxyz__sirhb-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;服务端&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AsKK9qeq4kxyz__sirhb-15" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AsKK9qeq4kxyz__sirhb-15" value="虚拟摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="433.5" y="140.5" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-16" value="jhuser1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -79,7 +79,7 @@
             <mxPoint x="386" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AsKK9qeq4kxyz__sirhb-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AsKK9qeq4kxyz__sirhb-22">
+        <mxCell id="AsKK9qeq4kxyz__sirhb-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AsKK9qeq4kxyz__sirhb-9" target="AsKK9qeq4kxyz__sirhb-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="336" y="153" as="sourcePoint" />
             <mxPoint x="433" y="118" as="targetPoint" />

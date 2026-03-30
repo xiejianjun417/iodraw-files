@@ -25,14 +25,14 @@
         <mxCell id="AsKK9qeq4kxyz__sirhb-9" value="统一网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="135.5" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="AsKK9qeq4kxyz__sirhb-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="414.75" y="76" width="180.5" height="94.5" as="geometry" />
+        </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="43" width="190" height="217" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" source="AsKK9qeq4kxyz__sirhb-13" target="AsKK9qeq4kxyz__sirhb-15" parent="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AsKK9qeq4kxyz__sirhb-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="414.75" y="76" width="180.5" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="82.5" width="160" height="47.5" as="geometry" />

@@ -10,7 +10,7 @@
         <mxCell id="AsKK9qeq4kxyz__sirhb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="AsKK9qeq4kxyz__sirhb-2" target="AsKK9qeq4kxyz__sirhb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsKK9qeq4kxyz__sirhb-2" value="JHCoDesignClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AsKK9qeq4kxyz__sirhb-2" value="帮参考附件生成一个类似于USB外设重定向的摄像头重定向的整体架构图，采用原有组件的排列形式，只需要把U盘替换为摄像头，并删除UKey就可以了" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="112" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;客户端&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">

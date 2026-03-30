@@ -7,7 +7,7 @@
         <mxCell id="AsKK9qeq4kxyz__sirhb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="43" width="130" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="AsKK9qeq4kxyz__sirhb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="AsKK9qeq4kxyz__sirhb-2" target="AsKK9qeq4kxyz__sirhb-6">
+        <mxCell id="AsKK9qeq4kxyz__sirhb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="AsKK9qeq4kxyz__sirhb-2" target="AsKK9qeq4kxyz__sirhb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-2" value="JHCoDesignClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

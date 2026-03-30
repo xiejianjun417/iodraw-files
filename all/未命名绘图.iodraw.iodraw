@@ -40,11 +40,11 @@
         <mxCell id="AsKK9qeq4kxyz__sirhb-15" value="摄像头" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474.5" y="140.5" width="65" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="AsKK9qeq4kxyz__sirhb-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="414.75" y="76" width="180.5" height="94.5" as="geometry" />
+        </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-16" value="jhuser1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="92.75" width="50" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="AsKK9qeq4kxyz__sirhb-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="419.5" y="75.5" width="180.5" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="AsKK9qeq4kxyz__sirhb-17" value="Desktop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="527" y="92.75" width="50" height="27" as="geometry" />
